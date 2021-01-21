@@ -1,4 +1,4 @@
-# image_filter
+# face_filter
 
 ## Hardware requirements
 1. Operating System: MacOS, Windows, Linux, Unix
