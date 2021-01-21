@@ -13,7 +13,7 @@
 5. Dlib
 6. Cmake
 
-## Note- .dat file has not been uploaded due to file size.
+## Note- shape_predictor_68_face_landmarks.dat file has not been uploaded due to file size.
 
 ## How to use it -
 1) Run the code from the IDE, if it is on MacOS then run from the terminal
